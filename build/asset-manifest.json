@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/uday-assignment/static/css/main.3d8d84b9.chunk.css",
+    "main.js": "/uday-assignment/static/js/main.48a0271a.chunk.js",
+    "main.js.map": "/uday-assignment/static/js/main.48a0271a.chunk.js.map",
+    "runtime-main.js": "/uday-assignment/static/js/runtime-main.3e6ddd3b.js",
+    "runtime-main.js.map": "/uday-assignment/static/js/runtime-main.3e6ddd3b.js.map",
+    "static/css/2.99ee2f66.chunk.css": "/uday-assignment/static/css/2.99ee2f66.chunk.css",
+    "static/js/2.69ca91f5.chunk.js": "/uday-assignment/static/js/2.69ca91f5.chunk.js",
+    "static/js/2.69ca91f5.chunk.js.map": "/uday-assignment/static/js/2.69ca91f5.chunk.js.map",
+    "index.html": "/uday-assignment/index.html",
+    "precache-manifest.02df0fc726c3cf5749afdcbfcf79ba33.js": "/uday-assignment/precache-manifest.02df0fc726c3cf5749afdcbfcf79ba33.js",
+    "service-worker.js": "/uday-assignment/service-worker.js",
+    "static/css/2.99ee2f66.chunk.css.map": "/uday-assignment/static/css/2.99ee2f66.chunk.css.map",
+    "static/css/main.3d8d84b9.chunk.css.map": "/uday-assignment/static/css/main.3d8d84b9.chunk.css.map",
+    "static/js/2.69ca91f5.chunk.js.LICENSE.txt": "/uday-assignment/static/js/2.69ca91f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6ddd3b.js",
+    "static/css/2.99ee2f66.chunk.css",
+    "static/js/2.69ca91f5.chunk.js",
+    "static/css/main.3d8d84b9.chunk.css",
+    "static/js/main.48a0271a.chunk.js"
+  ]
+}
