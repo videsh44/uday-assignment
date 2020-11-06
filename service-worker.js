@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/uday-assignment/precache-manifest.02df0fc726c3cf5749afdcbfcf79ba33.js"
+  "/uday-assignment/precache-manifest.fa482f9cb49534c56adb654208801456.js"
 );
 
 self.addEventListener('message', (event) => {

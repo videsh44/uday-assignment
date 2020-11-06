@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a929e888a0d3a9255ced8c80691a0e3",
+    "revision": "bd54578120bbe726c88212d1112ef1a5",
     "url": "/uday-assignment/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uday-assignment/static/css/2.99ee2f66.chunk.css"
   },
   {
-    "revision": "1398d782f706c3785c0d",
-    "url": "/uday-assignment/static/css/main.3d8d84b9.chunk.css"
+    "revision": "d5478c0ad349cc557a87",
+    "url": "/uday-assignment/static/css/main.1c5abde8.chunk.css"
   },
   {
     "revision": "fa642aa463c7aacac51c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uday-assignment/static/js/2.69ca91f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1398d782f706c3785c0d",
-    "url": "/uday-assignment/static/js/main.48a0271a.chunk.js"
+    "revision": "d5478c0ad349cc557a87",
+    "url": "/uday-assignment/static/js/main.5a686c6b.chunk.js"
   },
   {
     "revision": "fb2987072fcf48b51704",
