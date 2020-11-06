@@ -1,8 +1,8 @@
 .frame-container {
-  height: 90vh;
   padding: 40px;
   display: flex;
   justify-content: space-evenly;
+  background: #eef0f1;
 }
 
 .frame-box {
@@ -11,10 +11,10 @@
   overflow-y: auto;
   border: 1px solid black;
   text-align: center;
+  background: #fff;
 }
 
 .box-heading {
-  min-width: 800px;
   font-size: 20px;
   text-align: center;
   font-weight: 800;

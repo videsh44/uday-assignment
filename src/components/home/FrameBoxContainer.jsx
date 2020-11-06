@@ -3,7 +3,9 @@ import Iframe from "react-iframe";
 
 const FrameBoxContainer = (props) => {
   return (
-    <div style={{ minWidth: "800px", overflowX: "auto" }}>
+    <div
+    // style={{ minWidth: "800px", overflowX: "auto" }}
+    >
       <Iframe
         url={props.url}
         width="100%"
